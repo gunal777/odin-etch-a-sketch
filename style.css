@@ -62,6 +62,7 @@ button:hover {
     border-radius: 8px;
     max-width: 90vw;
     max-height: 70vh;
+    overflow: auto;
 }
 
 .grid-container {
